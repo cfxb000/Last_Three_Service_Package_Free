@@ -169,3 +169,7 @@
 **联系方式：**  
 - 微信：M13051661743  
 - Telegram：[Last Three](https://t.me/+ytneiJtDPeFjOWM9)
+
+## 八、特别鸣谢
+
+[Geekertao的项目](https://github.com/Geekertao/CF-Workers-GitHub-Proxy) 加速节点的提供者！
